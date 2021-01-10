@@ -1,12 +1,22 @@
-### Hi there 👋
+### Hi there, this is Minhee 👋
+
+- 2019.11 ~ : Working as an `Android Developer`
+  - using `kotlin`, `java`, `android studio`
+
+❓ Here is my [introduction](https://www.notion.so/Introduction-8eb5d3cb33964714a2dbd1a5087c456a) <br>
+🛠️ I've done these kinds of [projects](https://www.notion.so/Projects-b7391693a2e04ec3ba0777ac6d047c79) <br>
+✍️ I'm writing at ... [brunch](https://brunch.co.kr/@miniblackgoat#works) - some of topics are `365days in Africa`, `personal thoughts`, `development` and `startup`<br>
+🖥️ More contents about development are here ... [Miniminis/bgoat-devLog](https://github.com/Miniminis/bgoat-devLog)<br>
+📫 How to reach me: <minhee4735@gmail.com><br>
+
+
 
 <!--
 **Miniminis/Miniminis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning and interested in ... [Spring Boot and JPA](https://github.com/Miniminis/spring-boot-study-note-2021)<br>
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
