@@ -7,8 +7,8 @@
 🛠️ I've done these kinds of [projects](https://www.notion.so/Projects-b7391693a2e04ec3ba0777ac6d047c79) <br>
 ✍️ I'm writing at ... [brunch](https://brunch.co.kr/@miniblackgoat#works) - some of topics are `365days in Africa`, `personal thoughts`, `development` and `startup`<br>
 🖥️ More contents about development are here ... [Miniminis/bgoat-devLog](https://github.com/Miniminis/bgoat-devLog)<br>
-📫 How to reach me: <minhee4735@gmail.com><br>
-
+📫 How to reach me: <minhee4735@gmail.com> <br>
+📃 For resume : [resume](https://www.notion.so/Resume-05ad5c89cb874d3d9a1221f1e115a98e) <br>
 
 
 <!--
