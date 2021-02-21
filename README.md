@@ -1,13 +1,15 @@
 ### Hi there, this is Minhee 👋
 
-- 2019.11 ~ : Working as an `Android Developer`
+- Since 2019, working as an `Software Developer`
   - using `kotlin`, `java`, `android studio`
+  - mainly working on `android` projects
 
 ❓ If you want to know ... [about me](https://www.notion.so/About-Me-8eb5d3cb33964714a2dbd1a5087c456a) <br>
 🛠️ I've done these kinds of ... [projects](https://www.notion.so/Projects-b7391693a2e04ec3ba0777ac6d047c79) <br>
-✍️ I'm writing at ... [brunch](https://brunch.co.kr/@miniblackgoat#works) - some of topics are `365days in Africa`, `personal thoughts`, `development` and `startup`<br>
+✍️ I'm writing at ... [brunch](https://brunch.co.kr/@miniblackgoat#works) - some of topics are `365days-in-Africa`, `personal-thoughts`, `development` and `startup`<br>
 🖥️ More contents about development are here ... [Miniminis/bgoat-devLog](https://github.com/Miniminis/bgoat-devLog)<br>
-📫 How to reach me: <minhee4735@gmail.com> <br>
+📫 How to reach me ... <minhee4735@gmail.com> & [LinkedIn](https://www.linkedin.com/in/minhee-son-3b2a1016a/) <br>
+
 
 
 <!--
